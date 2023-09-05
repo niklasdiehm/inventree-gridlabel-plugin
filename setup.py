@@ -27,7 +27,7 @@ setuptools.setup(
 
     url="https://github.com/niklasdiehm/inventree-gridlabel-plugin",
 
-    download_url = 'https://github.com/niklasdiehm/inventree-gridlabel-plugin/archive/v_1.0.0.tar.gz',
+    download_url = 'https://github.com/niklasdiehm/inventree-gridlabel-plugin/archive/1.0.0.tar.gz',
 
     license="MIT",
 
