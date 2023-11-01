@@ -15,7 +15,7 @@ pip install inventree-gridlabel-plugin
 Or, add to your `plugins.txt` file to install automatically using the `invoke install` command:
 
 ```
-inventree-label-plugin
+inventree-gridlabel-plugin
 ```
 
 ## Configuration Options
